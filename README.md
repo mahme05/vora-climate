@@ -3,6 +3,7 @@
 > Phase 2 Skill Task — Mobile Development Intern
 
 A single-screen Flutter app for room climate control, built to match the Vora design system.
+![Dark themed AC control interface](screen.png)
 
 ---
 
@@ -87,3 +88,4 @@ Consumer<ClimateProvider>  ←── rebuilds on notifyListeners()
 ```
 
 If a widget calls a method, it's on the provider. If it displays a value, it's reading from the provider. That's the whole model.
+Disclamer: README.md made using AI
